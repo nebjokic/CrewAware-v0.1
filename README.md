@@ -12,9 +12,9 @@ Follow [general instructions](https://docs.crp.kypo.muni.cz/basic-concepts/typic
 ## Topology summary
 |Host|Image|Flavor|
 |-|-|-|
-|server|ubuntu-focal-x86_64|standard.small|
-|client|ubuntu-focal-x86_64|standard.small|
-|router|debian-9-x86_64|standard.small|
+|server|ubuntu-noble-x86_64|standard.small|
+|client|ubuntu-noble-x86_64|standard.small|
+|router|debian-12-x86_64|standard.small|
 
 ## License and Credits
 [MIT License](./LICENSE)
@@ -22,3 +22,4 @@ Follow [general instructions](https://docs.crp.kypo.muni.cz/basic-concepts/typic
 **Leading author:** Zdeněk Vydra
 
 **Contributors:** Jakub Čegan, Tomáš Sapák, Kamil Andoniadis, Igor Ignác, Juraj Paluba, Dominik Pilár, Michal Urban, Tomáš Kacvinský
+**Adapted by:** Nebojša Jokić
