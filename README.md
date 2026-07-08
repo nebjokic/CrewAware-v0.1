@@ -22,4 +22,5 @@ Follow [general instructions](https://docs.crp.kypo.muni.cz/basic-concepts/typic
 **Leading author:** Zdeněk Vydra
 
 **Contributors:** Jakub Čegan, Tomáš Sapák, Kamil Andoniadis, Igor Ignác, Juraj Paluba, Dominik Pilár, Michal Urban, Tomáš Kacvinský
+
 **Adapted by:** Nebojša Jokić
