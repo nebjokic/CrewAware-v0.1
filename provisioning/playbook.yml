@@ -30,11 +30,11 @@
       kypo_user_access_sudo: True
     - name: client
 
-- name: set up command logging
-  hosts: hosts
-  become: yes
-  roles:
-    - role: sandbox-logging
-      slf_destination_port: '{% if hostvars["man"] is defined -%} 514 {%- else -%} 515 {%- endif %}'
+#- name: set up command logging
+#  hosts: hosts
+#  become: yes
+#  roles:
+#    - role: sandbox-logging
+#      slf_destination_port: '{% if hostvars["man"] is defined -%} 514 {%- else -%} 515 {%- endif %}'
 
 ...
